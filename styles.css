@@ -1,6 +1,6 @@
 .container {
-    border-radius: 30px;
-    width: fit-content;
+    border-radius: 20px;
+    width:max-content;
     max-width: 200px;
     margin: 3% auto;
     padding: 20px;
@@ -8,6 +8,7 @@
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     text-align: center;
   }
+
 body {
   font-family: 'Courier New', Courier, monospace;
   font-size: 1vw;
